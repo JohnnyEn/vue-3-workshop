@@ -4,33 +4,33 @@
 1. Vytvoření projektu přes CLI službu
 2. Reaktivita pt. 1 - Úvod
 3. Základní architektura aplikace
-	a. Komponenty - SFC
-	b. Pages
-	c. Routes
-	d. Pinia Store modules
-	e. Layouts
-	f. Composables
+    1. Komponenty - SFC
+    2. Pages
+    3. Routes
+    4. Pinia Store modules
+    5. Layouts
+    6. Composables
 4. Životní cyklus aplikace
-	a. lifecycle hooks
+    1. lifecycle hooks
 5. 2 typy způsobu psaní aplikace
-	a. Options API
-	b. Composition API
+    1. Options API
+    2. Composition API
 6. Reaktivita pt. 2 - Primitiva + Vue basic concepts
-	a. Ref vs Data objekt
-	b. Reactive vs Data objekt
-	c. Watchers
-	d. Conditional rendering - v-if
-	e. List rendering - v-for
-	f. 2 way data binding - v-model
-	g. Template refs
+    1. Ref vs Data objekt
+    2. Reactive vs Data objekt
+    3. Watchers
+    4. Conditional rendering - v-if
+    5. List rendering - v-for
+    6. 2 way data binding - v-model
+    7. Template refs
 7. Základní dědičnost dat v komponentách
-	a. Props
-	b. Event handling
-	c. Slots
+    1. Props
+    2. Event handling
+    3. Slots
 8. Vue.js Frameworky
-	a. Quasar, Vue Bootstrap deriváty, Vuetify, PrimeVUE
-	b. SSR Frameworky - Nuxt
-	c. Pluginy a knihovny
+    1. Quasar, Vue Bootstrap deriváty, Vuetify, PrimeVUE
+    2. SSR Frameworky - Nuxt
+    3. Pluginy a knihovny
 9. Tooling
-	a. IDE pluginy - Volar, eslint, beautify
-	b. Browser pluginy - Vue Dev Tools
+    1. IDE pluginy - Volar, eslint, beautify
+    2. Browser pluginy - Vue Dev Tools
