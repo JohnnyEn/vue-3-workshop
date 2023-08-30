@@ -1,0 +1,16 @@
+2023-08-30T18:06:46.740Z - info:   [119351] *** FOLDER: /home/johnny/Dev/vue-3-workshop ***
+2023-08-30T18:06:46.746Z - info:   [119351] AzureReposVSCode/1.2007.15 (VSCode 1.81.1; Linux 6.2.0-26-generic; Node 16.17.1)
+2023-08-30T18:06:46.747Z - debug:  [119351] Looking for an External Context at /home/johnny/Dev/vue-3-workshop
+2023-08-30T18:06:46.748Z - debug:  [119351] No External Context at /home/johnny/Dev/vue-3-workshop
+2023-08-30T18:06:46.764Z - debug:  [119351] Looking for TFVC repository at /home/johnny/Dev/vue-3-workshop
+2023-08-30T18:06:46.767Z - debug:  [119351] TFVC Creating Tfvc object with localPath='undefined'
+2023-08-30T18:06:46.768Z - debug:  [119351] Using TFS proxy: 
+2023-08-30T18:06:46.769Z - debug:  [119351] TFVC Retrieved from settings; localPath='C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\Common7\IDE\CommonExtensions\Microsoft\TeamFoundation\Team Explorer\'
+2023-08-30T18:06:46.769Z - warn:   [119351] TFVC C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\Common7\IDE\CommonExtensions\Microsoft\TeamFoundation\Team Explorer\ does not exist.
+2023-08-30T18:06:46.770Z - error:  [119351] Unable to find the TF executable. Please ensure TF is installed and the path specified contains the filename.
+2023-08-30T18:06:48.943Z - debug:  [119351] Reinitializing due to onDidChangeConfiguration
+2023-08-30T18:06:51.980Z - debug:  [119351] Reinitializing due to onDidChangeConfiguration
+2023-08-30T18:06:52.459Z - debug:  [119351] Reinitializing due to onDidChangeConfiguration
+2023-08-30T18:06:52.837Z - debug:  [119351] Reinitializing due to onDidChangeConfiguration
+2023-08-30T18:07:34.391Z - debug:  [119351] Reinitializing due to onDidChangeConfiguration
+2023-08-30T18:08:17.741Z - debug:  [119351] Reinitializing due to onDidChangeConfiguration
